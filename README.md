@@ -18,8 +18,11 @@ My Todo List
 
 - How to use
 Simply put your task on the bar and press enter after you finish typing.
+
 Your task will be created.
+
 You can delete your tasks by clicking the trash icon.
+
 You can check completed by clicking the check mark.
 
 
