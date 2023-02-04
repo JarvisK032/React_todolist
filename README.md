@@ -14,23 +14,25 @@ The link below is a walkthrough of the code.
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+My Todo List 
+
+- How to use
+Simply put your task on the bar and press enter after you finish typing.
+Your task will be created.
+You can delete your tasks by clicking the trash icon.
+You can check completed by clicking the check mark.
+
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I'm using React - Javascript to make this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+* [Behinning our React todo list](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make a sorting system
+
