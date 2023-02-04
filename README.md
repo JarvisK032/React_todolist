@@ -12,11 +12,8 @@ The link below is a walkthrough of the code.
 
 [Software Walkthrough Video](https://youtu.be/W7h7mcCXZ4k)
 
-# Web Pages
+# How to use
 
-My Todo List 
-
-- How to use
 Simply put your task on the bar and press enter after you finish typing.
 
 Your task will be created.
